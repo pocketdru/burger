@@ -1,5 +1,7 @@
 # burger
 
+[Deployed version](https://agile-brook-77885.herokuapp.com/)
+
 ## How it works
 
 1. This  is a restaurant app that lets users input the names of burgers they'd like to eat.

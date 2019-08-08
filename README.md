@@ -2,6 +2,13 @@
 
 [Deployed version](https://agile-brook-77885.herokuapp.com/)
 
+### Built With
+1. HTML5.
+2. CSS
+3. Express.
+4. Handlebars.
+5. MySQL.
+
 ## How it works
 
 1. This  is a restaurant app that lets users input the names of burgers they'd like to eat.
